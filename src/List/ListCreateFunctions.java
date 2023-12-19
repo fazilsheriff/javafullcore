@@ -11,5 +11,6 @@ public static void main(String[] args) {
 	words.add("elegant");
 	System.out.println(words);
 	//FAZIL
+	//now wroking on functions of lists 
 }
 }
